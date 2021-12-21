@@ -21,6 +21,10 @@ Jupyter Notebook
 
 ## Demo Video
 
+
+https://user-images.githubusercontent.com/44926849/146965213-029bf393-1924-4666-9062-80812858aad3.mp4
+
+
 ## Credits
 ```
 @aasurjya
